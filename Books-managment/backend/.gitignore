@@ -1,0 +1,14 @@
+#node
+node_modules
+# build
+dist
+# coverage
+coverage
+# misc
+.DS_Store
+*.log
+*.lock
+*.swp
+# dotenv environment variable files
+.env
+.env.local
