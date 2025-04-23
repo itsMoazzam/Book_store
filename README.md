@@ -1,13 +1,13 @@
-MERN stack project 
+# MERN stack project 
 Books managment
 
 node -v
 npm -v
 
-# for Backend
+# For Backend
 nodemon server.js
 or
 node server.js
 
-#for frontend
+# For Frontend
 npm run dev
